@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('/Ubuntu-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+body,html {
+  height: 100%;
+  width: 100%;
+  background: #61B68C;
+  overflow: hidden;
+  font-family: "Ubuntu";
+  color: whitesmoke;
+  padding: 1rem;
+}
+
